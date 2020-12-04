@@ -1,0 +1,2 @@
+# AI-vs-Angelou
+Artificial intelligence versus Maya Angelou: Experimental evidence that people cannot differentiate AI-generated from human-written poetry
